@@ -14,13 +14,13 @@
 <br>  
 
 # Membres de l'équipe
-[Abevi Malaïka](https://github.com/YanOul1991]) (*Chargé de projet*) 
+[Abevi Malaïka](https://github.com/YanOul1991) (*Chargé de projet*) 
 -
-[Sébastien Malo](https://github.com/YanOul1991]) : (*Directeur artistique*) 
+[Sébastien Malo](https://github.com/SebGit-dev) : (*Directeur artistique*) 
 -
-[Matys Voisin](https://github.com/YanOul1991]) : (*Directeur d'intégration*) 
+[Matys Voisin](https://github.com/AbeviMalaika) : (*Directeur d'intégration*) 
 -
-[Jin Murakami](https://github.com/YanOul1991]) : (*Directeur d'intégration*)
+[Jin Murakami](https://github.com/4J4-Hachiman) : (*Directeur d'intégration*)
 -
-[Yanis Oulmane](https://github.com/YanOul1991]) : (*Directeur technique* )
+[Yanis Oulmane](https://github.com/YanOul1991) : (*Directeur technique* )
 -
