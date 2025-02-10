@@ -22,7 +22,7 @@
 -
 [Matys Voisin](https://github.com/MatysBV) : (*Directeur d'intégration*) 
 -
-[Jin Murakami](https://github.com/4J4-Hachiman) : (*Directeur d'intégration*)
+[Jin Murakami](https://github.com/jin-murakami02) : (*Directeur d'intégration*)
 -
 [Yanis Oulmane](https://github.com/YanOul1991) : (*Directeur technique* )
 -
