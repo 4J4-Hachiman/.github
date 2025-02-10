@@ -14,7 +14,7 @@
 <br>  
 
 # Membres de l'équipe
-[Abevi Malaïka](https://github.com/AbeviMalaika) (*Chargé de projet*) 
+[Malaïka Abevi](https://github.com/AbeviMalaika) (*Chargé de projet*) 
 -
 [Sébastien Malo](https://github.com/SebGit-dev) : (*Directeur artistique*) 
 -
