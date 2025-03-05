@@ -1,5 +1,3 @@
-![Hachiman presentation 3](https://github.com/user-attachments/assets/8d6b4914-32d6-4ba0-919d-658c59badd72)
-
 # 👺 *BIENVENUE DANS HACHIMAN* 👺 
 
 <br>
